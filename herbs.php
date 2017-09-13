@@ -177,38 +177,29 @@
 		                       Sage herb or garden sage is one of the traditional herbs known since ancient Roman times. This sharp-flavored legendary plant has long been recognized as "the guardian of herbs." Apart from cooking, it is also found in various traditional European and Chinese medicines for its health promoting and disease preventing properties.
 		     				</p>
 		     				<p><span style='font-weight: bold;'>Explanation</span></p>
-		     				<p>
-		     					Herb sage is an evergreen perennial shrub commonly seen all over the Mediterranean and south-eastern Europe (Balkan) regions.
-		     				</p>
-		     				<p>
-		     					Sage flourishes well under sandy, alkaline soil supplemented with adequate sunlight conditions. It grows up to 75 cm in height and features woody, branching stems. Its pebble-like patterned, aromatic leaves feature grey-green, soft surface with fine hair-like filaments growing on either side. During summer, it bears violet-blue flowers in a bunch that attracts bees.
-		     				</p>
-		     				<p>
-		     					Sage herbal parts have many notable plant-derived chemical compounds, essential oils, minerals, vitamins that are known to have disease preventing, and health promoting properties.
-		     				</p>
+			                   <ul class="fa-ul">
+			                        <li><i class="fa-li fa fa-check-square"></i>Herb sage is an evergreen perennial shrub commonly seen all over the Mediterranean and south-eastern Europe (Balkan) regions.</li>
+			                        <li><i class="fa-li fa fa-check-square"></i>Sage flourishes well under sandy, alkaline soil supplemented with adequate sunlight conditions. It grows up to 75 cm in height and features woody, branching stems. Its pebble-like patterned, aromatic leaves feature grey-green, soft surface with fine hair-like filaments growing on either side. During summer, it bears violet-blue flowers in a bunch that attracts bees.</li>
+			                        <li><i class="fa-li fa fa-check-square"></i>Sage herbal parts have many notable plant-derived chemical compounds, essential oils, minerals, vitamins that are known to have disease preventing, and health promoting properties.</li>
+			                    </ul>
 	   					</div>
 	   					<div class="clearfix"> </div>
 	   			</div>
 	   			<hr>
 	   			<div class="herbs-grids">
 	   				<div class="col-md-4 about-grid">
-	   					<img src="assets/images/more/sage.jpg">
+	   					<img src="assets/images/more/tarragon.jpg">
 	   				</div>
 	   					<div class="col-md-8 about-grid1">
-		   					<h4>Sage</h4>
+		   					<h4>Tarragon</h4>
 		     			    <p>
-		                       Sage herb or garden sage is one of the traditional herbs known since ancient Roman times. This sharp-flavored legendary plant has long been recognized as "the guardian of herbs." Apart from cooking, it is also found in various traditional European and Chinese medicines for its health promoting and disease preventing properties.
+		                       French tarragon herb, also known as dragon wort, is a very popular culinary herb used as flavoring agent, especially in the Mediterranean cuisines. This aromatic perennial growing herb is rich in phytonutrients as well antioxidants that help promote health and prevent diseases.
 		     				</p>
-		     				<p><span style='font-weight: bold;'>Explanation</span></p>
-		     				<p>
-		     					Herb sage is an evergreen perennial shrub commonly seen all over the Mediterranean and south-eastern Europe (Balkan) regions.
-		     				</p>
-		     				<p>
-		     					Sage flourishes well under sandy, alkaline soil supplemented with adequate sunlight conditions. It grows up to 75 cm in height and features woody, branching stems. Its pebble-like patterned, aromatic leaves feature grey-green, soft surface with fine hair-like filaments growing on either side. During summer, it bears violet-blue flowers in a bunch that attracts bees.
-		     				</p>
-		     				<p>
-		     					Sage herbal parts have many notable plant-derived chemical compounds, essential oils, minerals, vitamins that are known to have disease preventing, and health promoting properties.
-		     				</p>
+		     				<p><span style='font-weight: bold;'>Importances</span></p>
+			                   <ul class="fa-ul">
+			                        <li><i class="fa-li fa fa-check-square"></i>The herb is thought to have originated in the Central Asia region, probably in Siberia.</li>
+			                        <li><i class="fa-li fa fa-check-square"></i>This exquisite herb is rich in numerous health benefiting phyto-nutrients that are indispensable for optimum health.</li>
+			                    </ul>
 	   					</div>
 	   					<div class="clearfix"> </div>
 	   			</div>

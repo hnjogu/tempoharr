@@ -20,6 +20,17 @@
                             All rights  Reserved | by<a href="http://www.wandasoko.org/" target="target_blank">WandaSoko</a>
                         </p>
 					</div>
+			<a class="scroll" href="#home" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+
+				</div>
+			</div>
+					<!-- jQuery -->
+					    <!-- jQuery -->
+        <script src="assets/js/jquery-1.11.1.min.js"></script>
+		<!-- Bootstrap Core JavaScript -->
+		<script src="assets/js/bootstrap.min.js"></script>
+		<!-- Bootstrap Core JavaScript -->
+		<script src="assets/js/responsiveslides.min.js"></script>
 					<script type="text/javascript">
 						$(document).ready(function() {
 							
@@ -27,27 +38,28 @@
 							
 						});
 					</script>
-				<a class="scroll" href="#home" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+		<!-- script for menu -->				
+		 <script>
+			 $("label.menu").click(function(){
+			 $(".top-menu ul").slideToggle("slow" , function(){
+			 });
+			 });
+		 </script>
+        <!-- //script for menu -->
 
-				</div>
-			</div>
-			<!-- jQuery -->
-		<!-- Bootstrap Core JavaScript -->
-		<script src="assets/js/jquery-1.11.1.min.js"></script>
-		<script src="assets/js/responsiveslides.min.js"></script>
 		<!-- other useful jquery -->
 	    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-		       <script>
-	    $(function () {
-	      $("#slider").responsiveSlides({
-	      	auto: true,
-	      	nav: true,
-	      	speed: 500,
-	        namespace: "callbacks",
-	        pager: true,
-	      });
-	    });
-	  </script>
+		<script>
+			    $(function () {
+			      $("#slider").responsiveSlides({
+			      	auto: true,
+			      	nav: true,
+			      	speed: 500,
+			        namespace: "callbacks",
+			        pager: true,
+			      });
+			    });
+	    </script>
 
 	                  <!-- start-smoth-scrolling-->
 		<script type="text/javascript" src="assets/js/move-top.js"></script>
@@ -70,9 +82,11 @@
 					});
 				</script>
 				<script type="text/javascript">
-					    $('#myCarousel').carousel({
-					        interval: 10000
-					    })
+			         	$(document).ready(function() {
+                      	$('#myCarousel').carousel({
+                        interval: 10000
+                           })
+                        });
 				</script>
 		        
 	</body>

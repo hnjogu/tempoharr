@@ -33,7 +33,7 @@
             <div class="panel panel-info">
                 <div class="panel-heading">
                     Our Purpose
-                    <i class="fa fa-newspaper-o pull-right"></i>
+                    <i class="img"><img class="pull-right" src="assets/images/icons/purposes.jpg" height="25" width="60"/></i>
                 </div>
                     <div class="panel-body">
                         <p>  </p>
@@ -49,7 +49,7 @@
             <div class="panel panel-info">
                 <div class="panel-heading">
                     Our Vision
-                    <i class="fa fa-newspaper-o pull-right"></i>
+                    <i class="img"><img class="pull-right" src="assets/images/icons/Vision.png" height="25" width="60"/></i>
                 </div>
                     <div class="panel-body">
                         <p>  </p>
@@ -67,7 +67,8 @@
         <article class="panel panel-success">      
             <!-- Heading -->
             <div class="panel-heading">
-                <h2 class="panel-title">Our Focus</h2>
+                Our Focus
+                <i class="img"><img class="pull-right" src="assets/images/icons/Focus.png" height="25" width="60"/></i>
             </div>
             <!-- /Heading -->    
             <!-- Body -->
@@ -103,7 +104,8 @@
         <article class="panel panel-success">       
             <!-- Heading -->
             <div class="panel-heading">
-                <h2 class="panel-title">Partnership</h2>
+                Partnership
+                <i class="img"><img class="pull-right" src="assets/images/icons/partnership.jpg" height="25" width="100"/></i>
             </div>
             <!-- /Heading -->    
             <!-- Body -->
@@ -137,21 +139,23 @@
            
             <article class="panel panel-success">    
                 <div class="panel-heading">
-                    <h2 class="panel-title">Supply Chain</h2>
+                    Supply Chain 
+                     <i class="img"><img class="pull-right" src="assets/images/icons/supplychain.png" height="25" width="70"/></i>
                 </div>
                 <div class="panel-body">
                     <p>
                         Operating model.
                     </p>
-                    <p>
-                        
-                    </p>
+                        <div class="col-md-12 about-grid">
+                            <img src="assets/images/more/model.jpg">
+                        </div>
                 </div>    
             </article>
             <!-- /Panel --> 
             <article class="panel panel-success">    
                 <div class="panel-heading">
-                    <h2 class="panel-title">Our Objective</h2>
+                    Our Objective  
+                    <i class="img"><img class="pull-right" src="assets/images/icons/our_objectives.png" height="25" width="100"/></i>
                 </div>
                 <div class="panel-body">
                     <p>
@@ -168,7 +172,8 @@
             <!-- /Panel --> 
             <article class="panel panel-success">    
                 <div class="panel-heading">
-                    <h2 class="panel-title">Our proposal</h2>
+                    Our proposal
+                    <i class="img"><img class="pull-right" src="assets/images/icons/our_proposal.png" height="30" width="200"/></i>
                 </div>
                 <div class="panel-body">
                     <p>

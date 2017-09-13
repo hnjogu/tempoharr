@@ -49,7 +49,7 @@
 		<div class="what">
 			<div class="container">
 				<div class="what-header">
-				<h3>what we Do</h3>
+				<h3>Portfolio</h3>
 				<p>We fill the gap between farm production cycles and the market.</p>
 				</div>
 				<div class="what-grids">

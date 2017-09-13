@@ -9,23 +9,12 @@
    		<div class='top-menu'>
    				<label class="menu">  </label>
    				<ul>
-   	<li><a href='index.php' class="active"><span>Main Page</span></a></li>
-    <li><a href='about.php'><span>About</span></a></li>
-  	<li><a href='market.php'><span>Market</span></a></li>
-   	<li><a href='contact.php'><span>Contact</span></a></li>
-    <div class="clearfix"> </div>
-    </ul>
-     <!-- script for menu -->
-				
-		 <script>
-		 $("label.menu").click(function(){
-		 $(".top-menu ul").slideToggle("slow" , function(){
-		 });
-		 });
-		 </script>
-
-					<!-- //script for menu -->
-
+           	<li><a href='index.php' class="active"><span>Main Page</span></a></li>
+            <li><a href='about.php'><span>About</span></a></li>
+          	<!--li><a href='market.php'><span>Market</span></a></li-->
+           	<li><a href='contact.php'><span>Contact</span></a></li>
+            <div class="clearfix"> </div>
+          </ul>
 	  </div>
     </div>
   </div>

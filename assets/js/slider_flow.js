@@ -1,5 +1,5 @@
 $(document).ready(function () {
-
+   
     $('.fdi-Carousel .item').each(function () {
         var next = $(this).next();
         if (!next.length) {

@@ -2,7 +2,7 @@
    	<div class="container">
    		<div class="header-top">
             <!--Logo wanda soko-->
-        <div class="logo text-center">
+        <div class="logo text-center" href="#">
             <img src="assets/logo/wandasoko.png" height="90px" width="90px" class="wandasoko" />
             <p>Wanda Soko.</p>
         </div>
@@ -15,7 +15,7 @@
            	<li><a href='contact.php'><span>Contact</span></a></li>
             <div class="clearfix"> </div>
           </ul>
-	  </div>
+	    </div>
     </div>
   </div>
 </div>

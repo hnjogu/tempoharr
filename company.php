@@ -122,6 +122,8 @@
                         <li><i class="fa-li fa fa-check-square"></i>Logistics coordination</li>
                         <li><i class="fa-li fa fa-check-square"></i>Extension and growing support</li>
                     </ul>
+                <p><span style='font-weight: bold;'>Established Agriprocity in Dubai that is excercising Joint
+                          Venture with Wanda Soko on export markets in Dubai</span></p>
             </div>      
         </article>
         <!-- /Panel -->     
@@ -199,7 +201,6 @@
     </div>
     </div>
     <!-- /.row -->
-    <?php include 'assets/includes/bottom_banner.php'; ?>
     <hr>
 </div>
 <?php

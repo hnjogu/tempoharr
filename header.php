@@ -21,6 +21,8 @@
 		<link rel="stylesheet" href="assets/css/swipebox.css">
 		                <!--slider flow controller-->
 		<link href="assets/css/slider_flow.css" rel="stylesheet" type="text/css" media="all" />
+		                 <!--testmony -->
+		<link href="assets/css/partnership_flow.css" rel="stylesheet" type="text/css" media="all" />
 		
 		<!--link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100' rel='stylesheet' type='text/css'-->
 		<!--link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'-->

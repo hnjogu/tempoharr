@@ -124,7 +124,6 @@
             </div>
         </div>
         <!-- /.row -->
-       <?php include 'assets/includes/bottom_banner.php'; ?>
        <hr>
     </div>
     <!-- /.container -->

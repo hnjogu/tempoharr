@@ -23,13 +23,15 @@
 	   					<div class="col-md-8 about-grid1">
 		   					<h4>Background Information About Wanda Soko</h4>
 		     			    <p>
-		                      Wanda Soko was born from Wanda Organic to respond to increasing demand of healthy feeding and traceability of products. 
+		                      Wanda Soko was born from Wanda Organic in 2017 to respond to increasing demand of healthy feeding and traceability of products. 
 		     				</p>
 		     				<p>
-		                      The operation model managed by Wanda Soko is based on the feedback from the market that greatly understands strong and reliable supply chain.
+		                      The operation model managed by Wanda Soko is based on the feedback from the market that
+		                       greatly understands strong and reliable supply chain for both open markets and those that require dedicated supply chain.
 		                    </p>
 		     			    <p>
-		                      It's a company that supply fresh produce direct from the farm to local and international market
+		                      It's a company that ensures supply of fresh produce direct from the farm to local and international market.
+		                       This is facilitated to fresh market buyers, semi proessors and processing clients.
 		     				</p>
 		                    <p>
 		                      To the market we gurantee consitent supply of quality produce and consitent price.

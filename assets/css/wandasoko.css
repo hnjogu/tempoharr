@@ -405,7 +405,7 @@ a.button:hover {
   text-transform: uppercase;
   color: #fff;
   font-weight: 700;
-  background:#10DDE5;
+  background:#DA70D6;
   padding: 0.8em 0;
  }
 .service-grid h5 {
@@ -2000,3 +2000,20 @@ padding: 10px 10px 10px;
 .contact-form span label {
   font-size: 12px;
 }
+
+h3.partnership {
+    color: #111;
+    font-size: 3.3em;
+    margin-bottom: 1em;
+    text-align: center;
+    font-weight: 100;
+}
+.sevices-w3layouts h3.partnership{
+    color: #fff!important;
+}
+h3.partnership {
+  font-size: 3em;
+  }
+h3.partnership {
+  font-size: 2.8em;
+  }
